@@ -27,8 +27,10 @@ namespace Toolkid.UIGrid {
             e.SetData(Color.green);
         }
         private void OnDataChanged(object sender, ItemSlot e) {
-            e.Image.GetComponent<FarmSlotBehaviour>().PlantSeed("ASG01");
-            e.SetData(Color.blue);
+            e.Image.GetComponent<FarmSlotBehaviour>().PlantSeed(e.ItemId);
+            var texture = Resources.Load<Texture>(e.ItemId);
+            e.Image.texture = texture;
+            e.SetData(Color.white);
         }
     }
 }

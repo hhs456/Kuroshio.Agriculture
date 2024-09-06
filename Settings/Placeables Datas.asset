@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: Placeables Datas
   m_EditorClassIdentifier: 
   datas:
-  - identifier: Seed_1
+  - identifier: plant_1
     name: "\u5496\u5561"
     tooltip: "\u4E00\u7A2E\u7D93\u6FDF\u4F5C\u7269\uFF0C\u5176\u679C\u4EC1\u7814\u78E8\u5F8C\u6C96\u6CE1\u53EF\u98F2\u7528\uFF0C"
     sharp: 00000000000000010000000101010000000000000000000000
-  - identifier: Seed_2
+  - identifier: plant_2
     name: "\u8336\u6A39"
     tooltip: "\u4E00\u7A2E\u7D93\u6FDF\u4F5C\u7269\uFF0C\u5176\u8449\u7247\u98A8\u4E7E\u56DE\u6C96\u5F8C\u53EF\u98F2\u7528\u3002"
     sharp: 00000000000000010100000001000000000100000000000000
-  - identifier: Seed_3
+  - identifier: plant_3
     name: "\u7518\u8517"
     tooltip: "\u4E00\u7A2E\u7D93\u6FDF\u4F5C\u7269\uFF0C\u7D93\u904E\u69A8\u6C41\u5F8C\u53EF\u63D0\u7149\u6210\u7CD6\u3002"
     sharp: 00000100000000010000000001000000000100000000000000
-  - identifier: Seed_4
-    name: "\u6A1F\u6728"
+  - identifier: plant_4
+    name: "\u9999\u6A1F"
     tooltip: "\u4E00\u7A2E\u7D93\u6FDF\u4F5C\u7269\uFF0C\u7D93\u904E\u5316\u5DE5\u7A0B\u5E8F\u53EF\u63D0\u7149\u6A1F\u8166\u3002"
     sharp: 00000000000001010100000001000000000100000000000000

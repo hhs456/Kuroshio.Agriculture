@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6862745, g: 1, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -253,16 +253,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   data:
-    index: -1
+    identifier: 
     name: 
     tooltip: 
+  stackablesData:
     amount: 0
     maximum: 0
   nameText: {fileID: 5644660793157411630}
   amountText: {fileID: 2487205112413014282}
   dragging: {fileID: 0}
   image: {fileID: 7395681115619253292}
-  index: 0
 --- !u!1 &3772039542156149190
 GameObject:
   m_ObjectHideFlags: 0
