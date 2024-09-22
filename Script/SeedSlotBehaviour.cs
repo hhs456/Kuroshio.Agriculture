@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Toolkid.UIGrid;
 using UnityEngine;
 
-namespace Kuroshio {
+namespace Kuroshio.Agriculture {
 
     public class SeedSlotBehaviour : Placeables {
 

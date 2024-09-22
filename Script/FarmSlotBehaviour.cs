@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Toolkid.UIGrid;
 using UnityEngine;
 using UnityEngine.UI;
-namespace Kuroshio {
+namespace Kuroshio.Agriculture {
     public class FarmSlotBehaviour : MonoBehaviour {
         public float timeToGrow = 60f; // 成熟所需的時間（秒）
         private float currentTime = 0f; // 當前經過的時間

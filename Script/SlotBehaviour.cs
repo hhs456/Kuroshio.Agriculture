@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace Toolkid.UIGrid {
+using Toolkid.UIGrid;
+namespace Kuroshio.Agriculture { 
     public class SlotBehaviour : MonoBehaviour {
         protected InventoryManager inventory;
 

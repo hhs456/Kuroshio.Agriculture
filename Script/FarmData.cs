@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Kuroshio {
+namespace Kuroshio.Agriculture {
     /// <summary>
     /// 屯田資料結構 (暫定)
     /// </summary>
