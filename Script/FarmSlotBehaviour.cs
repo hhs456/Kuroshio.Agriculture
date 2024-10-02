@@ -35,7 +35,7 @@ namespace Kuroshio.Agriculture {
                     GetComponentInChildren<Text>().text = $"{timeSpan.Minutes:D2}:{timeSpan.Seconds:D2}"; // 顯示分鐘和秒數
                 }
                 else {
-                    GetComponentInChildren<Text>().text = "樹已成熟！";
+                    GetComponentInChildren<Text>().text = "已成熟";
                 }
                 if (currentTime >= timeToGrow) {
                     GrowTree();
